@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p33415-e116962.adobeaemcloud.com/content/Gatlin-Gun"
+    url: "https://author-p33415-e116962.adobeaemcloud.com/content/gatlin-site"
     type: "markup"
     suffix: ".html"
