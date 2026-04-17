@@ -1,8 +1,10 @@
 {
   "mappings": [
-    "/content/aem-boilerplate/:/"
+    "/content/gatlin-site/:/",
+    "/content/gatlin-site/configuration:/.helix/config.json",
+    "/content/gatlin-site/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/gatlin-site/"
   ]
 }
